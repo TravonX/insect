@@ -1,4 +1,4 @@
-# insect game
+
 <center><h1 align="center">INSECT GAME</h1></center>
 
 This is a fun but ridiculious game
